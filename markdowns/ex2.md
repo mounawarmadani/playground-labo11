@@ -1,6 +1,6 @@
 # Exercice 2
 
-Trouver le PGCD de 2 nombres (fonction pouvant être testée en ligne)
+Trouver le PGCD de 2 nombres
 
 **NOTE** : il ne faut pas modifier les lignes de saisie et d'affichage.
  
